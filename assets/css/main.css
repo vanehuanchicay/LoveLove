@@ -1,0 +1,37 @@
+body{
+	background-color: #fa8c58;
+}
+h1{
+    text-align: right;
+    color: white;
+}
+h4{
+	text-align: right;
+    color: white;
+}
+
+.panda{
+	width: 100%;
+}
+
+.col-12-back{
+	background-color: #99f684;
+	padding: 40px 300px;
+}
+
+.col-12-innerText{
+	background-color: #fa8c58;
+}
+
+
+p{
+	color: white;
+}
+
+.container2{
+	max-width: 100%;
+}
+
+.ceropadding{
+	padding: 0;
+}
