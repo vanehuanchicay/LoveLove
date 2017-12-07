@@ -1,37 +1,76 @@
 body{
-	background-color: #fa8c58;
+	font-family: Montserrat;
 }
-h1{
-    text-align: right;
-    color: white;
+.container_general{
+	margin:0;
 }
-h4{
-	text-align: right;
-    color: white;
+.row_header{
+	background-color: #f78e69;
 }
-
-.panda{
-	width: 100%;
-}
-
-.col-12-back{
-	background-color: #99f684;
-	padding: 40px 300px;
-}
-
-.col-12-innerText{
-	background-color: #fa8c58;
-}
-
-
-p{
-	color: white;
-}
-
-.container2{
-	max-width: 100%;
-}
-
 .ceropadding{
 	padding: 0;
+}
+.top_tittle h1, h4{
+	text-align: right;
+	color: white;
+}
+.panda_pic_one{
+	width: 100%;
+	padding-bottom: 0.5%;
+	/*border-bottom: 10px solid #f78e69; */
+}
+.first_photo{
+	background-color: #f78e69;
+
+}
+.panda_pic_two{
+	width: 100%;
+	padding-top: 0.9%;
+	padding-bottom: 0.6%;
+}
+.panda_two{
+	background-color: #f78e69;
+}
+.panda_pic_three{
+	border-top:12px solid #f78e69;
+	width: 100%;
+}
+.last_panda{
+	background-color: #f78e69;
+
+}
+.footer_panda{
+	background-color: #f78e69;
+}
+.about_panda{
+	background-color: #99f684;
+}
+.about_text{
+	text-align: center;
+	background-color: #f78e69;
+	margin-left: 25%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	padding:3%;
+	color: white;
+}
+.about_text h4{
+	text-align: center;
+}
+.panda_section{
+	background-color: #99f684;
+	color: white;
+	padding-bottom: 4%;
+}
+.tittle_galery{
+	margin-left:190%;
+	padding: 15% 0 3% 0;
+	font-size: 190%;
+}
+.tittle_footer{
+	color: white;
+	text-align: right;
+}
+.img{
+	border:6px solid white;
 }
